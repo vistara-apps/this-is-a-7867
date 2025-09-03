@@ -313,7 +313,7 @@ function FormulaBuilder({ data, onChange }) {
               </div>
               <div className="text-sm text-text-secondary space-y-2">
                 <p><strong>Basic operators:</strong> +, -, *, /, %</p>
-                <p><strong>Comparison:</strong> >, <, >=, <=, ==, !=</p>
+                <p><strong>Comparison:</strong> &gt;, &lt;, &gt;=, &lt;=, ==, !=</p>
                 <p><strong>Conditional:</strong> condition ? valueIfTrue : valueIfFalse</p>
                 <p><strong>Grouping:</strong> Use parentheses ( )</p>
                 <p><strong>Variables:</strong> Use input field IDs</p>
